@@ -7,15 +7,6 @@ sidebar: auto
 
 見出し1の内容確認
 
-## Heading 2
-
-見出し2の内容
-
-## Heading 3
-
-見出し3の内容
-
----
 home: true
 heroImage: https://v1.vuepress.vuejs.org/hero.png
 tagline:
@@ -29,9 +20,26 @@ features:
   - title: Feature 3 Title
     details: Feature 3 Description
 footer: Made by  with ❤️
----
 
----
+
+## Heading 2
+
+見出し2の内容
+
+```js{5}
+export default {
+  name: 'MyComponent',
+  data() {
+    return {
+      message: 'ハイライトされてる！'
+    }
+  }
+}
+```
+
+## Heading 3
+
+見出し3の内容
 title: すごいドキュメント
 meta:
   - name: description
@@ -41,3 +49,10 @@ meta:
 ## すごい見出し
 
 すごい内容
+
+
+---
+---
+
+
+---
