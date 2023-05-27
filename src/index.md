@@ -13,3 +13,14 @@ features:
     details: Feature 3 Description
 footer: Made by  with ❤️
 ---
+
+---
+title: すごいドキュメント
+meta:
+  - name: description
+    content: すごい説明
+---
+
+## すごい見出し
+
+すごい内容
