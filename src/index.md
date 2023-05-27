@@ -1,13 +1,9 @@
 ---
 sidebar: auto
 ---
-# Title
-
-This is Good MarkDown text editor!
+# This is Good MarkDown text editor!
 
 ## Heading 1
-
-見出し1の内容確認
 
 home: true
 
@@ -24,9 +20,7 @@ features:
 footer: Made by  with ❤️
 
 
-## Heading 2
-
-見出し2の内容
+## Heading 2　
 
 ```js{5}
 export default {
@@ -41,20 +35,15 @@ export default {
 
 ## Heading 3
 
-見出し3の内容
-title: すごいドキュメント
+title: Nice
 meta:
   - name: description
-    content: すごい説明
+    content: sample
 ---
 
-## すごい見出し
+## Heading 4
 
-すごい内容
-
-
----
----
+### this is sample
 
 
 ---
