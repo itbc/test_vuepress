@@ -3,12 +3,13 @@ sidebar: auto
 ---
 # Title
 
+This is Good MarkDown text editor!
+
 ## Heading 1
 
 見出し1の内容確認
 
 home: true
-heroImage: https://v1.vuepress.vuejs.org/hero.png
 
 tagline:
 actionText: Quick Start →
