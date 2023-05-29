@@ -17,10 +17,11 @@ features:
     details: Feature 2 Description
   - title: Feature 3 Title
     details: Feature 3 Description
-footer: Made by  with ❤️
+footer: Made by  with
 
 
 ## Heading 2　
+### this is sample
 
 ```js{5}
 export default {
@@ -34,6 +35,7 @@ export default {
 ```
 
 ## Heading 3
+### this is sample
 
 title: Nice
 meta:
