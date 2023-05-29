@@ -19,6 +19,8 @@ features:
 footer: Made by  with
 
 
+[Home](../README.md)  
+[Config Reference](../reference/config.md)  
 
 
 ## Heading 2　
@@ -38,12 +40,9 @@ export default {
 ## Heading 3
 ### this is sample
 
-:::note info
-sample
+::: tip
+tip
 :::
-
-`rgb(255,0,0)`
-`rgba(0,255,0,0.4)`
 
 
 meta:
