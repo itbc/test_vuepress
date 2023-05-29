@@ -4,8 +4,7 @@ sidebar: auto
 # This is Good MarkDown text editor!
 
 ## Heading 1
-
-home: true
+### this is sample
 
 tagline:
 actionText: Quick Start →
@@ -18,6 +17,8 @@ features:
   - title: Feature 3 Title
     details: Feature 3 Description
 footer: Made by  with
+
+
 
 
 ## Heading 2　
@@ -37,15 +38,12 @@ export default {
 ## Heading 3
 ### this is sample
 
-title: Nice
 meta:
   - name: description
     content: sample
----
 
 ## Heading 4
 
 ### this is sample
 
 
----
