@@ -38,6 +38,14 @@ export default {
 ## Heading 3
 ### this is sample
 
+:::note info
+sample
+:::
+
+`rgb(255,0,0)`
+`rgba(0,255,0,0.4)`
+
+
 meta:
   - name: description
     content: sample
