@@ -1,3 +1,4 @@
+---
 sidebar: auto
 ---
 # This is sample page for MarkDown text editor!
