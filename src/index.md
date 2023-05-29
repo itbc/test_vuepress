@@ -7,8 +7,8 @@ sidebar: auto
 ### this is sample
 
 tagline:
-actionText: Quick Start →
-actionLink: /guide/
+actionText: Quick Start
+
 features:
   - title: Feature 1 Title
     details: Feature 1 Description
@@ -19,8 +19,8 @@ features:
 footer: Made by  with
 
 
-[Home](../README.md)  
-[Config Reference](../reference/config.md)  
+[Home](../README.md)  [Sample Page](../public/sample.md) [Config Reference](../reference/config.md) 
+[Sample Page2](index.md)  [Aample Page3](./public/sample.md)
 
 
 ## Heading 2　
